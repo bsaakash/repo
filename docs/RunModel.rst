@@ -1,5 +1,5 @@
 RunModel module
 ===============
 
-.. automodule:: RunModel
+.. autoclass:: RunModel.RunModel
 	:members:
